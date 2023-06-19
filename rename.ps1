@@ -1,9 +1,7 @@
 # 目標資料夾
-# $folder_path = "Your/Directory/Path"
-$folder_path = "D:\myCode\VScodeProjects\Tim\LeetCode\leetcode-ans\easy"
+$folder_path = "D:\myCode\VScodeProjects\Tim\LeetCode\leetcode-ans\hard"
 
 # 目標副檔名
-# $ext_list = ".your_ext"
 $ext_list = ".c", ".cpp"
 
 # 檔案名稱格式
