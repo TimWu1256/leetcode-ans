@@ -9,3 +9,4 @@ My LeetCode answers
 - 2023/06/19 add completed problems
 - 2023/06/20 add 1732, 2239
 - 2023/06/22 add 1413
+- 2023/06/30 add 205
